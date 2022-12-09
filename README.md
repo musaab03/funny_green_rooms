@@ -1,20 +1,23 @@
 # The Funny Green Escape Rooms
 Text based game made in python
-Inspired by an escape room where we have 4 different themed quizses
+Inspired by an escape room where we have 4 different themed quizzes
 
 ## Christmas Quiz 
-Christmas themed quiz </br>
+- Christmas themed quiz
 - 4 multiple choice questions
 - 1 True or False question
 - Q3 gives 3 chances to get the correct answer
 
 ## Penalty Shootout 
-World Cup inspired quiz </br>
-Getting a question correct increases chances of scoring to 80% </br>
-Getting a question wrong decreases chances of scoring to 20%
+- World Cup inspired quiz
+- Getting a question correct increases chances of scoring a goal to 80%
+- Getting a question wrong decreases chances of scoring a goal to 20%
+- User has to score 5 goals from a range of 40+ questions including some multiple choice ones
 
 ## Riddler Room 
-Solve the riddles 
+- Batman inspired
+- 5 riddles to solve
 
 ## Quiz Master 
-General Knowledge quiz 
+- General Knowledge quiz 
+- Themed around the 'Quiz Master'
