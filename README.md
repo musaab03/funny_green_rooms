@@ -11,12 +11,12 @@ Created by Adam, Andrew, Jade and Musaab
   ```
   git clone https://github.com/musaab03/funny_green_rooms
   ```
-  </br>Then cd into the directory
-3. Enter a new terminal and execute the following line
+3. Then cd into the directory
+4. Enter a new terminal and execute the following line
    ```
    py green_rooms_final.py
    ```
-4. Done!
+5. Done!
 
 ## Christmas Quiz - Jade
 - Christmas themed quiz
