@@ -15,7 +15,7 @@ Inspired by an escape room where we have 4 different themed quizzes
 - User has to score 5 goals from a range of 40+ questions including some multiple choice ones
 
 ## Riddler Room 
-- Batman inspired
+- Batman inspired quiz
 - 5 riddles to solve
 
 ## Quiz Master 
