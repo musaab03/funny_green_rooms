@@ -1,8 +1,22 @@
 # The Funny Green Escape Rooms
-Text based game made in python </br>
+Text based game made in Python </br>
 Inspired by an escape room where we have 4 different themed quizzes </br>
 Made during Code Nation Develop: Coding course </br></br>
 Created by Adam, Andrew, Jade and Musaab
+
+## Setting up the game
+
+1. First, fork the repo to your own account
+2. Clone the repo on to your local machine with the following line </br>
+  ``
+  git clone https://github.com/musaab03/funny_green_rooms
+  ``
+  </br>Then cd into the directory
+3. Enter a new terminal and execute the following line
+   ``
+   py funny_green_rooms.py
+   ``
+
 
 ## Christmas Quiz - Jade
 - Christmas themed quiz
