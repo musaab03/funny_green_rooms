@@ -1,5 +1,5 @@
 # The Funny Green Escape Rooms
-Text based game made in python
+Text based game made in python </br>
 Inspired by an escape room where we have 4 different themed quizzes
 
 ## Christmas Quiz 
