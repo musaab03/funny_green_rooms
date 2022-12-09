@@ -1,4 +1,4 @@
-import time, sys, random, threading
+import time, sys, random
 
 # Main Game
 room_choice_input = ""
