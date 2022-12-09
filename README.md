@@ -1,7 +1,7 @@
 # The Funny Green Escape Rooms
 Text based game made in python </br>
 Inspired by an escape room where we have 4 different themed quizzes </br>
-Made during Code Nation Develop:Coding Course </br>
+Made during Code Nation Develop: Coding course </br></br>
 Created by Adam, Andrew, Jade and Musaab
 
 ## Christmas Quiz - Jade
