@@ -8,15 +8,15 @@ Created by Adam, Andrew, Jade and Musaab
 
 1. First, fork the repo to your own account
 2. Clone the repo on to your local machine with the following line </br>
-  ``
+  ```
   git clone https://github.com/musaab03/funny_green_rooms
-  ``
+  ```
   </br>Then cd into the directory
 3. Enter a new terminal and execute the following line
-   ``
-   py funny_green_rooms.py
-   ``
-
+   ```
+   py green_rooms_final.py
+   ```
+4. Done!
 
 ## Christmas Quiz - Jade
 - Christmas themed quiz
