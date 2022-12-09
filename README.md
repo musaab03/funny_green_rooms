@@ -13,9 +13,9 @@ Created by Adam, Andrew, Jade and Musaab
   ```
 3. Then cd into the directory
 4. Enter a new terminal and execute the following line
-   ```
-   py green_rooms_final.py
-   ```
+ ```
+ py green_rooms_final.py
+ ```
 5. Done!
 
 ## Christmas Quiz - Jade
