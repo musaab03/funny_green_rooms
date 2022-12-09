@@ -16,7 +16,7 @@ Created by Adam, Andrew, Jade and Musaab
  ```
  py green_rooms_final.py
  ```
-5. Done!
+Done!
 
 ## Christmas Quiz - Jade
 - Christmas themed quiz
