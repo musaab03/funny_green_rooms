@@ -10,7 +10,7 @@ Created by Adam, Andrew, Jade and Musaab (me)
 
 ## Install
 
-1) Clone this repo
+Clone this repo
 ```sh
 git clone https://github.com/musaab03/funny_green_rooms
 ```
