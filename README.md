@@ -12,7 +12,7 @@ Created by Adam, Andrew, Jade and Musaab (me)
 
 1. First, fork the repo to your own account
 2. Clone the repo on to your local machine with the following line </br>
-  ```sj
+  ```sh
   git clone https://github.com/musaab03/funny_green_rooms
   ```sh
 3. Then cd into the directory
