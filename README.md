@@ -12,16 +12,16 @@ Created by Adam, Andrew, Jade and Musaab (me)
 
 1. First, fork the repo to your own account
 2. Clone the repo on to your local machine with the following line </br>
-  ```sh
-  git clone https://github.com/musaab03/funny_green_rooms
-  ```sh
+```sh
+git clone https://github.com/musaab03/funny_green_rooms
+```sh
 3. Then cd into the directory
 
 ## Usage
 Enter a new terminal and execute the following line
- ```sh
- py green_rooms_final.py
- ```
+```sh
+py green_rooms_final.py
+```
 
  ## Christmas Quiz - Jade
 - Christmas themed quiz
