@@ -4,6 +4,9 @@ Inspired by an escape room where we have 4 different themed quizzes </br>
 Made during [Code Nation Develop: Coding](https://wearecodenation.com/2023/02/22/develop-coding-l2/) course </br></br>
 Created by Adam, Andrew, Jade and Musaab (me)
 
+![image](https://user-images.githubusercontent.com/103457332/234884195-65fb639c-af14-4b63-af39-ea72e9245e4d.png)
+
+
 ## Setting up the game
 
 1. First, fork the repo to your own account
